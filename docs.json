@@ -4,8 +4,8 @@
   "name": "Willow Starter Kit",
   "colors": {
     "primary": "#0F62FE",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#0F62FE",
+    "dark": "#4589FF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
