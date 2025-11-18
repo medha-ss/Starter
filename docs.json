@@ -12,6 +12,9 @@
     "dark": "#18181B"
   },
   "favicon": "/favicon.svg",
+  "fonts": {
+    "family": "IBM Plex Sans"
+  },
   "navigation": {
     "tabs": [
       {
